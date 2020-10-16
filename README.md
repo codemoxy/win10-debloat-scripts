@@ -33,11 +33,13 @@ Comment any thing you don't want out... Example:
 
 ## Single Command For Debloating Windows 10:
 
- #### Recommended
+ #### Recommended:
  	
 	powershell -nop -c "iex(New-Object Net.WebClient).DownloadString('https://bit.ly/316QhOV')"
  
- #### Minimal Windows ( Delets lot more softwares ansservices ):
- 	
+ #### Aggressive Debloat:
+ 		
+		Removes More Programs than the Recommended One!
+		
 	powershell -nop -c "iex(New-Object Net.WebClient).DownloadString('https://bit.ly/37dYUv0')"
  
