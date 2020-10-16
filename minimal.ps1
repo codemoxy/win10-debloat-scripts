@@ -12,9 +12,9 @@
 #
 #	Addition: One command to rule them all, One command to find it, and One command to Run it! 
 #
-#     > powershell -nop -c "iex(New-Object Net.WebClient).DownloadString('https://git.io/JJ8R4')"
+#     > powershell -nop -c "iex(New-Object Net.WebClient).DownloadString('https://bit.ly/37dYUv0')"
 #
-#	Chris Titus Additions:
+#	Code Moxy's Addition:
 #
 #	- Dark Mode
 #	- One Command to launch and run
