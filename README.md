@@ -39,7 +39,7 @@ Comment any thing you don't want out... Example:
  
  #### Aggressive Debloat:
  		
-		Removes More Programs than the Recommended One!
+	- Removes More Programs than the Recommended One!
 		
-	powershell -nop -c "iex(New-Object Net.WebClient).DownloadString('https://bit.ly/37dYUv0')"
+	powershell -nop -c "iex(New-Object Net.WebClient).DownloadString('https://bit.ly/3dzpJdU')"
  
